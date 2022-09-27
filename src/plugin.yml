@@ -1,0 +1,5 @@
+name: ShiftClickPlugin
+main: me.tntvlogs.shiftclickplugin.Main
+version: 1.0-SNAPSHOT
+author: TnTVlogs
+description: Execute command on shift + click on a Player

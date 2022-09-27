@@ -1,0 +1,17 @@
+#
+#   Permission: shiftclick.use
+#
+messages:
+  prefix: "&6ShiftClick &8>&r "
+  no_permission: "&cYou don't have permission to do this"
+config:
+  #Add or remove worlds
+  enabled_worlds:
+  - world
+  - world_nether
+  - world_the_end
+  #You can use variable %player_clicker% and %player_clicked%
+  commands:
+  - test1
+  - test2
+  - test3
